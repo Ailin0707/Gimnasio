@@ -1,0 +1,63 @@
+body {
+    background-image: url(/Gimnasio/Page/7-gimnasio.jpg);
+    background-color: rgb(192, 190, 190);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 10%;
+    background-attachment: fixed;
+   
+    
+}
+
+.container { 
+    margin-left: -0px;
+    padding-left: -70px;
+    font-size: 20px;
+    border: none; 
+    background-color: transparent;
+}
+
+.container3 {
+    font-size: 15px;
+    position: relative;
+    padding-left: 15px;
+    
+    
+    
+}
+
+
+.footer {
+    background-color: transparent;
+    font-family: sans-serif;
+    padding: -10px;
+    text-aling: center;
+    position: absolute;
+    bottom: 0;
+    color:white;
+    font-size: 10px;
+    
+    }
+
+    .icons{
+        box-sizing:none;
+        color: transparent;
+        font-size: 15px;
+        background-color: transparent;
+        
+    }
+
+
+
+a :hover {
+    color:gray;
+}
+
+
+button{
+    color:white;
+    background-color: transparent;
+    border: none;
+    padding-right: 10px;
+        
+}

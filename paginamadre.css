@@ -1,0 +1,66 @@
+body {
+    background-image: url(/Gimnasio/IMG/esteeselfondo.jpg);
+    background-color: rgb(192, 190, 190);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 10%;
+    background-attachment: fixed;
+   
+    
+}
+
+
+.container { 
+    margin-left: -0px;
+    padding-left: -70px;
+    font-size: 20px;
+    border: none; 
+    background-color: transparent;
+}
+
+.container3 {
+    font-size: 15px;
+    position: relative;
+    padding-left: 15px;
+    
+    
+    
+}
+
+.icons{
+    box-sizing:none;
+    color: transparent;
+    font-size: 15px;
+    background-color: transparent;
+    margin: 0px;
+}
+
+img{
+    object-fit:scale-down;
+}
+
+button{
+    color:white;
+    background-color: transparent;
+    border: none;
+    padding-right: 15px;
+    
+}
+
+.footer {
+background-color:transparent;
+color:white;
+font-size: 10px;
+font-family: sans-serif;
+padding: 1em 0;
+text-aling: center;
+position: absolute;
+bottom: 0;
+
+}
+
+a:hover {
+    color:gray;
+    
+}
+
